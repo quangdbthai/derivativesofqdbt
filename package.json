@@ -1,0 +1,29 @@
+{
+  "name": "derivativesofqdbt",
+  "version": "1.0.0",
+  "description": "Fundamental tool of calculus that quantifies the sensitivity of change of a function's output with respect to its input.
+
+",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "derivativesofqdbt": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quangdbthai/derivativesofqdbt.git"
+  },
+  "homepage": "https://twitter.com/QTeeeDB",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "quangdbthai",
+  "license": "MIT"
+}
